@@ -3,7 +3,7 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
-    color: blue; /* set the text color to blue here */
+    color: blue;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
@@ -13,7 +13,7 @@
   }
 
   body {
-    background-color: beige;/* set the background color here */
+    background-color: beige;
     color: black;/* set the text color to black here */
     font-family: Helvetica, Arial, sans-serif;/* set the font here */
     text-align: center;/* set the text alignment here */
